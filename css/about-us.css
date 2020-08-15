@@ -3,9 +3,6 @@
 	background-color: #fff;
 }
 
-.banner{
-
-}
 .about-us{
 	text-align: center;
 }
@@ -40,7 +37,6 @@ a{
 .logo a, nav ul li a{
 	margin-bottom: 0;
 }
-
 @media(max-width:1000px){
 
 	.about-us p{
@@ -52,13 +48,8 @@ a{
 	.about-us h1{
 	font-size: 35px;
 	line-height: 1.7;
+  }
 }
-
-
-
-
-}
-
 @media(max-width: 820px){
 
 		.about-us p{
@@ -71,14 +62,12 @@ a{
 	.about-us h1{
 	font-size: 30px;
 }
-
 img{
 	width: 500px;
 	height:400px !important
 }
 
 }
-
 @media(max-width: 620px){
 
 	img{
@@ -88,8 +77,6 @@ img{
 	}
 
 }
-
-
 
 @media(max-width: 520px){
 
