@@ -1,0 +1,114 @@
+.about-us-section{
+	padding: 70px 0;
+	background-color: #fff;
+}
+
+.banner{
+
+}
+.about-us{
+	text-align: center;
+}
+
+.about-us h1{
+	font-size: 40px;
+}
+
+.about-us p{
+	font-size: 22px;
+	line-height: 1.7;
+}
+
+
+a{
+	color: #38b5e6;
+	margin-bottom: 40px;
+	display: block;
+}
+.about-us img{
+	height: 500px;
+	margin: 45px;
+	transition: all 1s;
+}
+
+.about-us img:hover{
+	cursor: pointer;
+	transform: scale(1.1);
+}
+
+
+.logo a, nav ul li a{
+	margin-bottom: 0;
+}
+
+@media(max-width:1000px){
+
+	.about-us p{
+	font-size: 20px;
+	line-height: 1.7;
+}
+
+
+	.about-us h1{
+	font-size: 35px;
+	line-height: 1.7;
+}
+
+
+
+
+}
+
+@media(max-width: 820px){
+
+		.about-us p{
+	font-size: 12px;
+	line-height: 1.9;
+	font-weight: 500;
+}
+
+
+	.about-us h1{
+	font-size: 30px;
+}
+
+img{
+	width: 500px;
+	height:400px !important
+}
+
+}
+
+@media(max-width: 620px){
+
+	img{
+
+		width: 350px;
+		height: 350px !important;
+	}
+
+}
+
+
+
+@media(max-width: 520px){
+
+
+
+	.wrapper {
+		max-width: 100%;
+	}
+
+	.gallery {
+		max-width: 100%;
+	}
+	img{
+
+		max-width: 100%;
+		max-height: 100% !important;
+	}
+
+}
+
+
+
