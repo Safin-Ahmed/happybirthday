@@ -283,8 +283,7 @@ font-size: 110px;
 @media(max-width: 620px){
 
 	.container, .wrapper{
-		max-width: 500px;
-		margin: 0;
+		width: 500px;
 	}
 	header{
 		padding-bottom: 30px;
