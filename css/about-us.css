@@ -138,11 +138,20 @@ img{
 
 	.about-us{
 		width: 100%;
+
+	}
+
+	.about-us p {
+    font-size: 14px;
+    width: 250px;
+    margin: auto;
+}
+	.about-us h1{
+		font-size: 23px;
 	}
 
 	img {
-    width: 220px;
-    height: 220px !important;
+   display: none;
 	}
 }
 
